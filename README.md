@@ -1,6 +1,16 @@
 # Active-Directory-Project
 
-<h2>Overview</h2>
+
+
+
+
+
+
+
+
+<h2>Active Directory Lab Architecture</h2>
+
+![image](https://github.com/user-attachments/assets/ae6205c5-9111-4b97-bdf1-f91312534a50)
 
   - [Preparing AD Infrastructure in Azure](https://github.com/MarcusTSerrano/Preparing-Active-Directory-in-Azure)
   - [Deploying Active Directory](https://github.com/MarcusTSerrano/Deploying-Active-Directory)
